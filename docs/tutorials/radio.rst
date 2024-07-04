@@ -64,7 +64,7 @@ the Morse-code "protocol" layer in the wired networking example.
 
 A really great series of child (and teacher) friendly explanations of "all
 things bytes" can be found at the
-`CS unplugged <http://csunplugged.org/binary-numbers/>`_ website.
+`CS unplugged <https://classic.csunplugged.org/activities/binary-numbers/>`_ website.
 
 Addressing
 ++++++++++
